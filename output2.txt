@@ -1,0 +1,9 @@
+Original Text:
+Hello World!
+This is a new text file to demonstrate the new interactive capability of the text processor.
+
+Word Count: 18
+
+Uppercase Text:
+HELLO WORLD!
+THIS IS A NEW TEXT FILE TO DEMONSTRATE THE NEW INTERACTIVE CAPABILITY OF THE TEXT PROCESSOR.

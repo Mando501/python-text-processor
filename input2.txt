@@ -1,0 +1,2 @@
+Hello World!
+This is a new text file to demonstrate the new interactive capability of the text processor.

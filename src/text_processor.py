@@ -54,4 +54,6 @@ def main(input_file="input.txt", output_file="output.txt"):
     return False
 
 if __name__ == "__main__":
-    main()
+    input_name = input("Enter the name of the text file: ")
+    output_name = input("ENter the name of the output file: ")
+    main(input_name, output_name)
